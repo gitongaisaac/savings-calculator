@@ -1,0 +1,3 @@
+/home/isaac/Code/c++/projects/savings/cmake-build-debug/CMakeFiles/savings.dir
+/home/isaac/Code/c++/projects/savings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/isaac/Code/c++/projects/savings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
